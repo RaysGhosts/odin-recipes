@@ -1,0 +1,1 @@
+I just learned how to navegate on linux, git, github, and a little of HTML, looking foward to seee CSS and JS
